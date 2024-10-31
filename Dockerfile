@@ -24,4 +24,5 @@ COPY . .
 EXPOSE 4000
 
 # The default command to run Jekyll
-CMD ["jekyll", "serve", "--host", "127.0.0.1", "--livereload"]
+#CMD ["jekyll", "serve", "--host", "127.0.0.1", "--livereload"]
+CMD ["jekyll", "serve"]
