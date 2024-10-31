@@ -16,3 +16,8 @@ docker:
 
 dockerpull:
 	docker pull jekyll/jekyll
+
+small:
+	git add -A .
+	git commit -m "updaed"
+	git push origin main
