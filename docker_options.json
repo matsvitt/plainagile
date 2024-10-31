@@ -1,8 +1,8 @@
 {
-    "image": "webbuilder",
+    "image": "plainagile",
     "ports": {"5000/tcp": 5000},
     "detach": "true",
     "network": "pickaxe", 
-    "name" : "build"
+    "name" : "website"
 }
     
