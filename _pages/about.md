@@ -27,6 +27,9 @@ I’ve had the chance to tackle some truly fascinating challenges, blending tech
 
 ## My approach to custom software
 
+I build custom software based on Open Source Software. There are [many reasons](/posts/why-the-use-of-open-source-is-beneficial) to do that.
+One important point is: Maintaining Code that is based on open Standards, Code that integrates time tested, high quality is much easier to handle on the long run. Keep that in mind - 60% of all costs go into maintenance!
+
 One says that only 50% of all requirements are really needed in the final product -  so why don't we start with that?
 
 I follow the ***Working backwards*** process by Amazon which is used for every customer-facing product or service developed across the company.  The process starts with the creation of three key elements:
@@ -44,6 +47,8 @@ I am keen advocate of **[Test-Driven Development](https://en.wikipedia.org/wiki/
 Last but not least I value collaboration and interaction as well as I embrace change. I am well aware that is immensely difficult to find the best solution on your first attempt. Good solutions need hard work and software that is adaptable to change.
 
 For seamless collaboration, I use **[Jira](https://jira.atlassian.com)** and **[Confluence](https://confluence.atlassian.com)** as our project office, keeping everything organised, transparent, and easily accessible. This approach keeps us aligned and ensures a smooth, predictable path to delivery.
+
+
 
 
 
