@@ -2,13 +2,12 @@
 
 title: "Why the use of open source is beneficial"
 layout: post
-description: "The usage of Open Source Software leads to cost-savings, better software, fewer headaches."
-date: 2024-11-09 15:01:35 +0300
-
-image: '/images/06.jpg'
+description: "The usage of Open Source Software leads to cost-savings, better software and fewer headaches."
+date: 2024-11-04
+image: '/images/opensource.jpg'
 public: yes
 
-tags: [oensource, management]
+tags: [opensource, management]
 
 ---
 
@@ -16,12 +15,14 @@ tags: [oensource, management]
 As a software engineer, I am always faced with the decision of developing functionality myself or integrating it via an external module. My credo here is clear:
 
 > The best code is the one I don't have to write
+>
+> <cite>- Anonymous</cite>
 
 ## Thinking out of the box
 
 A lot has happened in the IT world since the beginning of OOS. Whereas 20 years ago open source software was still the playground of unworldly nerds, it has long since become **the** backbone for many software applications. And we're not talking about typical Internet servers. Open source is used everywhere in the commercial environment.
 
-It is now often the case that commercial software is just a wrapper for the software behind it. Why? The development speed of software driven by many minds is simply many times greater than that of a single company. For example, it is now assumed that in the field of artificial intelligence, it is not companies [such as Meta, OpenAI etc.] that provide the spearhead of the models, but the open source community]([https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/))
+It is now often the case that commercial software is just a wrapper for the software behind it. Why? The development speed of software driven by many minds is simply many times greater than that of a single company. For example, it is now assumed that in the field of artificial intelligence, it is not companies [such as Meta, OpenAI etc. that provide the spearhead of the models, but the open source community](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
 
 There are a number of tangible reasons to use open source software.
 

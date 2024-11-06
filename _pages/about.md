@@ -12,7 +12,7 @@ With a background spanning finance, retail, supply chain and research, I’ve de
 Creativity and a focus on efficiency define my work. I'm passionate about turning complex problems into workable solutions.
 
 > It is not because things are difficult that we do not dare, it is because we do not dare that they are difficult. 
-> 
+>
 > <cite>- Seneca</cite>
 
 # The gory details :)
@@ -37,7 +37,7 @@ I follow the ***Working backwards*** process by Amazon which is used for every c
 1. **A Press Release**: The press release is a one-page document that describes the new product or service using customer-centric language. 
 
 2. **Frequently Asked Questions**: What will be the most asked questions about the product. What are the most important features to get to know?
-    
+
 3. **Visuals**: A set of screens that represent the customer experience. 
 
 This approach is iterative and collaborative. However, the key point here is: _**Think the product from the end!**_
