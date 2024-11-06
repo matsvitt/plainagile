@@ -15,8 +15,8 @@ menu_settings:
       url: "/"
     - title: "What I bring"
       url: "/projects/"
-    # - title: "Posts"
-    #   url: "/posts/"
+    - title: "Posts"
+      url: "/posts/"
     - title: "Resources"
       submenu:
       # - url: "/posts/the-psychology-of-mobile-app-colors-influencing-user-perception"
