@@ -195,6 +195,8 @@ footer_menu__settings:
     #   url: '/posts/'
     - url: '/about/'
       title: 'About Me'
+    - url: '/impressum/'
+      title: 'Impressum'
 
 # Social Links
 social:
