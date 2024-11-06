@@ -1,4 +1,4 @@
-.PHONY: posts
+.PHONY: posts update
 
 default: run
 
@@ -26,6 +26,12 @@ small:
 
 posts:
 	python3  bin/obsconvert.py /Users/matthiasvitt/Library/CloudStorage/OneDrive-Personal/obsidian/freelancing/Artikel/Englisch _posts
+
+
+update:
+	git add -A .
+	git commit -m "Updated content"
+	git push origin main
 
 #
 #
