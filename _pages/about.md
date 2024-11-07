@@ -27,8 +27,8 @@ I’ve had the chance to tackle some truly fascinating challenges, blending tech
 
 ## My approach to custom software
 
-I build custom software based on Open Source Software. There are [many reasons](/posts/why-the-use-of-open-source-is-beneficial) to do that.
-One important point is: Maintaining code that is based on open Standards, code that integrates time tested, high quality Open Source software is much easier to handle on the long run. Keep that in mind - 60% of all costs go into maintenance!
+I build custom software based on Open Source Software. There are many reasons to do that, as described in [this post](/posts/why-the-use-of-open-source-is-beneficial).
+One important point is: Maintaining code that is based on open Standards, code that integrates time tested, high quality Open Source software is much easier to handle on the long run. Keep that in mind - **60% of all costs go into maintenance**!
 
 One says that only 50% of all requirements are really needed in the final product -  so why don't we start with that?
 

@@ -31,7 +31,7 @@ However, as soon as the software is put into operation, the technical experts re
 
 Similarly, the poor rookie, who is now supposed to use the software in the project, is overwhelmed by the variety of possibilities. He is quickly at his wit's end and has to annoy the guru, who is already under water. The documentation is (as is often the case) inadequate or not up to date.
 
-So **the question is**: how do I ensure that the expert knowledge really ends up in the software documentation? And this against the background that the documentation can still be adapted after release. 
+**So the question is**: how do I ensure that the expert knowledge really ends up in the software documentation? And how do I make it possible that the documentation can still be adapted after release?
 
 ## My solution
 
@@ -40,12 +40,18 @@ Software documentation is outsourced to a content management system (CMS) that p
 The software is operated in two modes:
 
 1. when clicking on the link, only the help text pops up (default mode)
+
+<img src="/images/phelp.png" loading="lazy" alt="Default Modus"/>
+
 2. clicking on the link opens the corresponding page in the CMS in edit mode. This is the _expert mode_
+
+<img src="/images/pedit.png" loading="lazy" alt="Expert Modus"/>
 
 This achieves the following:
 
 * The software can continue to be documented _after_ the release date. This means that a technical expert can simply add and change knowledge. It is not necessary to have completed the documentation at the time of release (which usually does not work). The subject matter expert only needs to have access to the software.
-* Because the documentation is not written in Microsoft Word or similar, but _directly_ in the CMS, the time-consuming intermediate step of preparing the documentation in a suitable form is no longer necessary. This saves time (and nerves).
-* Markdown](https://en.wikipedia.org/wiki/Markdown) as a markup language makes it easy to create attractive documentation without any effort. Links, videos etc. can be easily integrated.
+* Because the documentation is not written in Microsoft Word or similar tools, but _directly_ in the CMS, the time-consuming intermediate step of preparing the documentation in a suitable form is no longer necessary. This saves time (and nerves).
+* You enable the user to document his/her findings themselves - i.e. **they own their documentation**. This is in my opinion far better than providing the documentation of the software yourself (after checking it with the customer).
+* [Markdown](https://en.wikipedia.org/wiki/Markdown) as a markup language makes it easy to create attractive documentation without any effort. Links, videos etc. can be easily integrated.
 
-A very capable content managemenet system is for example [ghost](https://ghost.org)
+A very capable content management system is for example [ghost](https://ghost.org). It can be easily deployed using [Docker](https://www.docker.com) alongside the actual application.
