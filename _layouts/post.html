@@ -53,12 +53,16 @@ layout: default
 
 {% include post-navigation.html %}
 
+{% comment %}
 {% if site.data.settings.disqus_identifier %}
   {% include disqus-comments.html %}
 {% endif %}
-
+{% endcomment %}
 {% include related-posts.html %}
+
+{% comment %}
 
 {% include section-faq.html %}
 
 {% include section-subscribe.html %}
+{% endcomment %}
