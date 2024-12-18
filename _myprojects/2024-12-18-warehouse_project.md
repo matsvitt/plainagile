@@ -1,5 +1,5 @@
 ---
-title: Multi-User Warehouse Planning Software
+title: Warehouse Planning
 date: 2024-12-18
 label: Project
 image: '/images/warehouse_project.jpg'

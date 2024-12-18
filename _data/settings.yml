@@ -194,6 +194,9 @@ footer_menu__settings:
       url: '/'
     - title: 'What I bring'
       url: '/projects/'
+    - title: 'Projects'
+      url: '/myprojects/'
+
     # - title: 'Posts'
     #   url: '/posts/'
     - url: '/about/'

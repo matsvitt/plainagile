@@ -57,7 +57,7 @@ defaults:
       path: ""
       type: "myprojects"
     values:
-      layout: "project"
+      layout: "myproject"
 
 sass:
   sass_dir: _sass

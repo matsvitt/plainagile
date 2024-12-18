@@ -2,7 +2,7 @@
 title: Predictive Maintenance Solution
 date: 2024-12-18
 label: Project
-image: '/images/warehouse_project.jpg'
+image: '/images/fiber.jpg'
 featured:
 ---
 ## Predictive Maintenance Solution for Structural Health Monitoring Using Advanced Fiber Optic Sensing
