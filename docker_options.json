@@ -1,6 +1,6 @@
 {
     "image": "plainagile",
-    "ports": {"4000/tcp": 4000},
+    "ports": {"4040/tcp": 4040},
     "detach": "true",
     "network" : "pickaxe",
     "name" : "website"
